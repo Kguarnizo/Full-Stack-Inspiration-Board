@@ -1,4 +1,4 @@
-<h1>Inspiration-Board</h1>
+<h1>Inspiration Board</h1>
 
 The newly developed digital inspiration board platform empowers users to curate their own inspiration boards. Users have the flexibility to create multiple boards, each serving as a canvas for collecting various inspirational content.
 
