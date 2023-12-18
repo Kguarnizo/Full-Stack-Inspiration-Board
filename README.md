@@ -28,7 +28,6 @@ $ source venv/bin/activate
 3. Create a database named `inspiration_board_development`.
 4. Create a file named `.env`.
   - Add this environment variable: `FLASK_ENV=development`
-
   - Also, add the environment variable `SQLALCHEMY_DATABASE_URI` to hold the path to your database.
 5. Create Models
   - `Board`, **table name: `board`**
@@ -43,13 +42,13 @@ $ source venv/bin/activate
     - Run `flask db upgrade`
 6. Run `$ flask run` or `$ FLASK_ENV=development flask run`
 
-The back-end repistory can be found [here](https://github.com/Kguarnizo/back-end-inspiration-board)
+The back-end repository can be found [here](https://github.com/Kguarnizo/back-end-inspiration-board)
 
 ## Front-end Repository
-This repository contains the front-end code for Inspiration Board, built in Javascript using React and Create React App.
+This repository contains the front-end code for Inspiration Board, built in JavaScript using React and Create React App.
 
 <b>Technologies Used:</b>
-* Javascript
+* JavaScript
 * React
 * HTML
 * CSS
@@ -66,7 +65,7 @@ $ npx create-react-app .
 $ yarn add axios
 ```
 
-The front-end repistory can be found [here](https://github.com/Kguarnizo/front-end-inspiration-board)
+The front-end repository can be found [here](https://github.com/Kguarnizo/front-end-inspiration-board)
 
 ## Demo
 The demo for Insipiration Board can be found [here](https://www.youtube.com/watch?v=szsf7IeX-F0)
